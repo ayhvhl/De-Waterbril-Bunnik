@@ -1,1 +1,1 @@
-De locatie..tex
+Locatie.tex
