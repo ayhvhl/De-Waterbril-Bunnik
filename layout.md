@@ -1,2 +1,2 @@
 Locatie.tex
-section_ligging_van_het_gebied__.tex
+ligging.tex
