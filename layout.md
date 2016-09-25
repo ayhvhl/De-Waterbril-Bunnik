@@ -7,5 +7,6 @@ figures/Romeinse_wachttoren_fort_vechten_netherlands/Romeinse_wachttoren_fort_ve
 700_jaar_na_dat_de__.tex
 figures/Plan_Godebald/Plan_Godebald.png
 De_klein_schalige_projecten_werden__.tex
+figures/Waterlinie1885p3_2_/Waterlinie1885p3_2_.png
 Langzaam_aan_werd_het_beheer__.tex
 section_hedendaagse_waterbeheer_Waterschappen_zijn__.tex
