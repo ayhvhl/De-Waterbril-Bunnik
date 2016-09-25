@@ -4,6 +4,7 @@ ligging.tex
 figures/AHN_Gemeente_bunnik_2016-09-25 16-18-13/AHN_Gemeente_bunnik_2016-09-25 16-18-13.png
 Watergeschiedenis.tex
 figures/Romeinse_wachttoren_fort_vechten_netherlands/Romeinse_wachttoren_fort_vechten_netherlands.png
+figures/2000/2000.png
 700_jaar_na_dat_de__.tex
 figures/Plan_Godebald/Plan_Godebald.png
 De_klein_schalige_projecten_werden__.tex
