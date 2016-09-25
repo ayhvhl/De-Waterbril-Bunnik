@@ -2,6 +2,7 @@ Locatie.tex
 figures/Gem-Bunnik-OpenTopo_2500/Gem-Bunnik-OpenTopo_2500.png
 ligging.tex
 figures/IMG_7655/IMG_7655.png
+figures/IMG_7656/IMG_7656.png
 figures/AHN_Gemeente_bunnik_2016-09-25 16-18-13/AHN_Gemeente_bunnik_2016-09-25 16-18-13.png
 Watergeschiedenis.tex
 figures/Romeinse_wachttoren_fort_vechten_netherlands/Romeinse_wachttoren_fort_vechten_netherlands.png
