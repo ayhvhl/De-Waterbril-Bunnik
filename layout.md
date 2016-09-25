@@ -1,4 +1,5 @@
 Locatie.tex
+figures/Gem-Bunnik-OpenTopo_2500/Gem-Bunnik-OpenTopo_2500.png
 ligging.tex
 Watergeschiedenis.tex
 section_hedendaagse_waterbeheer_Waterschappen_zijn__.tex
